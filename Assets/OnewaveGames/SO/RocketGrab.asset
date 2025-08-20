@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d2126cfba22dd04c8d4a63db3c75cc7, type: 3}
+  m_Name: RocketGrab
+  m_EditorClassIdentifier: 
+  skillId: RocketGrab
+  cooldown: 2
+  effects:
+  - {fileID: 11400000, guid: 0a81e849cff79e149b6a5d5e29948c26, type: 2}
+  - {fileID: 11400000, guid: bb640243ff7022e47b6e7fcf0e40e71b, type: 2}
+  - {fileID: 11400000, guid: 461cbd34d7a95cb428d33ee08fe815e7, type: 2}
